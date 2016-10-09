@@ -45,6 +45,9 @@ function createTemplate(data){
                 	color : #ff1245;
                 	font-family : sans-serif;
                     }
+                    body{
+                        margin-top : 60px;
+                    }
 				</style>
 			</head>
 			<body>
