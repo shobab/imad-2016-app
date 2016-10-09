@@ -38,6 +38,14 @@ function createTemplate(data){
 					${title}
 				</title>
 				<link href="/ui/design.css" rel="stylesheet" >
+				<style>
+				    .container{
+                	max-width : 800px;
+                	margin : 0 auto;
+                	color : #ff1245;
+                	font-family : sans-serif;
+                    }
+				</style>
 			</head>
 			<body>
 				<div class="container">
