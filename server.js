@@ -48,6 +48,8 @@ function createTemplate(data){
                     }
                     body{
                         margin-top : 60px;
+                        padding-left :20px;
+                        padding-right :20px;
                     }
 				</style>
 			</head>
