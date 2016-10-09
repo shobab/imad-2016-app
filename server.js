@@ -50,6 +50,7 @@ function createTemplate(data){
                         margin-top : 60px;
                         padding-left :20px;
                         padding-right :20px;
+                        margin-bottom : 30px;
                     }
 				</style>
 			</head>
