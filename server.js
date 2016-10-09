@@ -44,6 +44,7 @@ function createTemplate(data){
                 	max-width : 800px;
                 	margin : 0 auto;
                 	color : #ff1245;
+                	background-color : white;
                 	font-family : sans-serif;
                     }
                     body{
